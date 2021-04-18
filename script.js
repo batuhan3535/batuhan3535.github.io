@@ -200,7 +200,7 @@ function captureScreenshot () {
 
     let captureCanvas = textureToCanvas(texture, target.width, target.height);
     let datauri = captureCanvas.toDataURL();
-    downloadURI('image/png', datauri);
+    downloadURI('png', datauri);
     URL.revokeObjectURL(datauri);
 }
 
