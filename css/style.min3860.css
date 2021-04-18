@@ -58,6 +58,27 @@ html {
     letter-spacing: 0.2em;
 }
 
+@media (min-width: 961px) {
+    h1 {
+        font-size: 2.75em;
+        letter-spacing: 0.35em;
+    }
+
+    h2 {
+        font-size: 1.85em;
+        letter-spacing: 0.5em;
+    }
+
+    #h3,
+    #h4,
+    #h5 {
+        font-size: 1em;
+        line-height: 1.4;
+        letter-spacing: 0.2em;
+    }
+}
+
+/*--------------Mobile Response --------*/
 @media only screen and (max-width: 736px) {
     h1 {
         font-size: 1.5em;
