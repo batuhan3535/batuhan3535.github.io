@@ -281,7 +281,7 @@
                 return t.onload = function () {
                     r.width = t.width, r.height = t.height, s.bindTexture(s.TEXTURE_2D, n), s.texImage2D(s.TEXTURE_2D, 0, s.RGB, s.RGB, s.UNSIGNED_BYTE, t)
                 }, t.src = e, r
-            }("img/LDR_LLL1_0.png"),
+            }(""),
             ee = new x(N, I),
             ne = new x(O, B),
             re = new x(O, M),
