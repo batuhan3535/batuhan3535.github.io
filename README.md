@@ -1,6 +1,7 @@
 # This is Graphical Canvas Painting Simulation
 
-# - https://batuhan3535.github.io/index.html
+# Online at 
+https://batuhan3535.github.io/index.html
 
  This is an app that gives a 2D liquid effect when users moves the mouse or clicks around the canvas.
 
