@@ -58,7 +58,7 @@ html {
     letter-spacing: 0.2em;
 }
 
-@media only screen and (min-width: 736px) {
+@media only screen and (max-width: 736px) {
     h1 {
         font-size: 1.5em;
         letter-spacing: 0.35em;
